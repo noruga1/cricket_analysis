@@ -51,8 +51,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-- **Your Name** - [Your GitHub Profile](https://github.com/your_username)
-
----
-Feel free to reach out with any questions or feedback!
+- Navneeth Oruganti
 
